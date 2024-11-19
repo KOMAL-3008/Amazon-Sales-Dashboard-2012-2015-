@@ -23,3 +23,6 @@ Top Customers: Customers like Tamara Chand and Raymond Buch generated the highes
 In creating this dashboard, I applied data_cleaning, data_manipulation, data_visualization, data_presentation and model_view techniques to ensure the data was accurate and insightful. The combination of Excel for initial data work and Power_BI for visualization allowed me to develop a detailed analysis that offers actionable insights into sales performance, product profitability, and market segmentation.
 
 This project highlights my ability to handle datasets and extract valuable insights for business strategy
+
+![Amazon Dashboard](https://github.com/user-attachments/assets/5dc3765c-516b-4bc2-b500-5b07a1b8fb06)
+
